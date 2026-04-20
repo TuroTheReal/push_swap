@@ -14,8 +14,8 @@
 
 ## About
 
-This repository contains my implementation of the **push_swap** project at 42 School.  
-Push_swap is a highly challenging **algorithmic project** that focuses on **sorting optimization** and **computational efficiency**.  
+This repository contains my implementation of the **push_swap** project at 42 School.
+Push_swap is a highly challenging **algorithmic project** that focuses on **sorting optimization** and **computational efficiency**.
 The goal is to sort a stack of integers using only a limited set of stack operations, while minimizing the total number of moves required.
 
 This project demonstrates mastery of **sorting algorithms**, **algorithmic optimization**, and **complexity analysis** - core computer science concepts that are fundamental to writing efficient software.
@@ -159,7 +159,7 @@ The algorithm must handle various input sizes efficiently while maintaining corr
 ```c
 // Swap operations
 sa    // Swap first 2 elements of stack A
-sb    // Swap first 2 elements of stack B  
+sb    // Swap first 2 elements of stack B
 ss    // Swap both stacks simultaneously
 
 // Push operations
@@ -219,7 +219,7 @@ rrr   // Rotate both stacks downward
 
 ### Performance Requirements
 - ✅ 3 numbers: ≤ 3 operations
-- ✅ 5 numbers: ≤ 12 operations  
+- ✅ 5 numbers: ≤ 12 operations
 - ✅ 100 numbers: ≤ 1500 operations (grade 4/5)
 - ✅ 500 numbers: ≤ 11500 operations (grade 5/5)
 - ✅ Correct output format for all valid inputs
@@ -231,6 +231,13 @@ rrr   // Rotate both stacks downward
 - ✅ **Performance Analytics**: Detailed operation counting and efficiency metrics
 
 
+## 📝 Related Articles
+
+Blog posts documenting the learning process and context behind this project:
+
+- 📝 [42 Piscine and Common Core: What I Learned](https://arthur-portfolio.com/en/blog/42-piscine-and-core-curriculum) — Reflections on 42 School's selection process and 2-year curriculum
+
+---
 ## Contact
 
 - **GitHub**: [@TuroTheReal](https://github.com/TuroTheReal)

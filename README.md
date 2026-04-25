@@ -11,6 +11,8 @@
 - [Operations Available](#operations-available)
 - [Technical Highlights](#technical-highlights)
 - [42 School Standards](#42-school-standards)
+- [Related Articles](#-related-articles)
+- [Contact](#contact)
 
 ## About
 
